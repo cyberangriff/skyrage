@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Botnet/Botnet.iml" filepath="$PROJECT_DIR$/Botnet/Botnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Infector/Infector.iml" filepath="$PROJECT_DIR$/Infector/Infector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkyrageMalware.iml" filepath="$PROJECT_DIR$/SkyrageMalware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Updater/Updater.iml" filepath="$PROJECT_DIR$/Updater/Updater.iml" />
+    </modules>
+  </component>
+</project>
